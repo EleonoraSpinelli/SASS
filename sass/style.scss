@@ -1,0 +1,12 @@
+$body-bg: green;
+$text-color:pink;
+$box-color:grey;
+
+body{
+  background: $body-bg;
+}
+
+.color-sass{
+  color:$text-color;
+  background: $box-color;
+}
